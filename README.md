@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://kickstartsolutions.in/wp-content/uploads/2020/12/Kotlin.png" height="40" alt="photoshop logo"  />
 </div>
 
 ###
